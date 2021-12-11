@@ -16,7 +16,12 @@ namespace SE447A_QLKS
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            //           Application.Run(new QLSach());
+            DangNhap lg = new DangNhap();
+            if (lg.ShowDialog() == DialogResult.OK) //đăng nhập thành công
+                Application.Run(new Home());
+            else
+                Application.Exit();
         }
     }
 }
