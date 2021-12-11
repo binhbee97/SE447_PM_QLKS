@@ -126,6 +126,11 @@
     <Compile Include="QLThietBi.Designer.cs">
       <DependentUpon>QLThietBi.cs</DependentUpon>
     </Compile>
+    <Compile Include="ThongTinDangNhap.cs" />
+    <Compile Include="XuLiDuLieu.cs" />
+    <EmbeddedResource Include="DangNhap.resx">
+      <DependentUpon>DangNhap.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

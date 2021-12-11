@@ -1,0 +1,10 @@
+E:\Data_dev\SE447 A\SE447A_QLKS\SE447A_QLKS\bin\Debug\SE447A_QLKS.exe.config
+E:\Data_dev\SE447 A\SE447A_QLKS\SE447A_QLKS\bin\Debug\SE447A_QLKS.exe
+E:\Data_dev\SE447 A\SE447A_QLKS\SE447A_QLKS\bin\Debug\SE447A_QLKS.pdb
+E:\Data_dev\SE447 A\SE447A_QLKS\SE447A_QLKS\obj\Debug\SE447A_QLKS.csprojAssemblyReference.cache
+E:\Data_dev\SE447 A\SE447A_QLKS\SE447A_QLKS\obj\Debug\SE447A_QLKS.DangNhap.resources
+E:\Data_dev\SE447 A\SE447A_QLKS\SE447A_QLKS\obj\Debug\SE447A_QLKS.Properties.Resources.resources
+E:\Data_dev\SE447 A\SE447A_QLKS\SE447A_QLKS\obj\Debug\SE447A_QLKS.csproj.GenerateResource.cache
+E:\Data_dev\SE447 A\SE447A_QLKS\SE447A_QLKS\obj\Debug\SE447A_QLKS.csproj.CoreCompileInputs.cache
+E:\Data_dev\SE447 A\SE447A_QLKS\SE447A_QLKS\obj\Debug\SE447A_QLKS.exe
+E:\Data_dev\SE447 A\SE447A_QLKS\SE447A_QLKS\obj\Debug\SE447A_QLKS.pdb
